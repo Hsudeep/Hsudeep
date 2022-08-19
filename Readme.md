@@ -1,4 +1,4 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif)
 
 Hi 👋, I'm Sudeep Haldar
 ============================
@@ -18,8 +18,8 @@ I mainly code in Javascript and recently started with TypeScript. I have found m
 
 ### Connect with me:
 
-[![Hsudeep](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/H_Sudeep28) 
-[![https://www.linkedin.com/in/hsudeep028/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/hsudeep028/)
+[![Hsudeep](https://img.icons8.com/doodle/40/000000/twitter-squared.png)](https://twitter.com/H_Sudeep28) 
+[![https://www.linkedin.com/in/hsudeep028/](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/hsudeep028/)
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
