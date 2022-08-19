@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif)
+![MasterHead](https://i.pinimg.com/originals/a5/a8/31/a5a8318c9abc50a09f836028a41c6985.gif)
 
 Hi 👋, I'm Sudeep Haldar
 ============================
