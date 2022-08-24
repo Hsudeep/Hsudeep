@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/f4/21/c2/f421c273a7d75bb65fa3dbe1cca23911.gif)
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 Hi 👋, I'm Sudeep Haldar
 ============================
