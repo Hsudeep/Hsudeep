@@ -13,7 +13,7 @@ I mainly code in Javascript and recently started with TypeScript. I have found m
 [![Hsudeep](https://github-profile-trophy.vercel.app/?username=Hsudeep)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning *React* 
-- 👨‍💻 All of my projects are available at [https://hsudeep-portfolio.herokuapp.com/](https://hsudeep-portfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://hsudeep-portfolio.herokuapp.com/](https://hsudeep.github.io/)
 - 💬 Ask me about * MERN *
 - 📫 How to reach me *haldarsudeep28.@gmail.com* 
 
