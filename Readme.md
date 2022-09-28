@@ -1,7 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Hsudeep&label=Profile%20views&color=5E9F00&style=flat" alt="sudeepHaldar" /> </p>
 
-Hi 👋, I'm Sudeep Haldar
+<h3 align="center">
+Hi there, I'm <a href="https://hsudeep.github.io/" target="_blank" rel="noreferrer">Sudeep</a> 👋
+</h3>
 ============================
 
 ### A passionate frontend developer from India
