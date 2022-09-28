@@ -1,11 +1,10 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Hsudeep&label=Profile%20views&color=5E9F00&style=flat" alt="sudeepHaldar" /> </p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://hsudeep.github.io/" target="_blank" rel="noreferrer">Sudeep</a> 👋
 </h3>
 
-### A passionate frontend developer from India
+### A passionate Full Stack Web developer from India
 
 I mainly code in Javascript and recently started with TypeScript. I have found my interest in React and so many other modern web frameworks. I am always learning. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Currently I'm also looking forward to contribute in open-source projects
 
