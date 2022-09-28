@@ -4,11 +4,15 @@
 <h3 align="center">
 Hi there, I'm <a href="https://hsudeep.github.io/" target="_blank" rel="noreferrer">Sudeep</a> 👋
 </h3>
-============================
 
 ### A passionate frontend developer from India
 
 I mainly code in Javascript and recently started with TypeScript. I have found my interest in React and so many other modern web frameworks. I am always learning. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Currently I'm also looking forward to contribute in open-source projects
+
+### Connect with me:
+
+[![Hsudeep](https://img.icons8.com/doodle/40/000000/twitter-squared.png)](https://twitter.com/H_Sudeep28) 
+[![https://www.linkedin.com/in/hsudeep028/](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/hsudeep028/)
 
 ![Hsudeep](https://komarev.com/ghpvc/?username=Hsudeep&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -18,11 +22,6 @@ I mainly code in Javascript and recently started with TypeScript. I have found m
 - 👨‍💻 All of my projects are available at [https://hsudeep.github.io/](https://hsudeep.github.io/)
 - 💬 Ask me about * MERN *
 - 📫 How to reach me *haldarsudeep28.@gmail.com* 
-
-### Connect with me:
-
-[![Hsudeep](https://img.icons8.com/doodle/40/000000/twitter-squared.png)](https://twitter.com/H_Sudeep28) 
-[![https://www.linkedin.com/in/hsudeep028/](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/hsudeep028/)
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
